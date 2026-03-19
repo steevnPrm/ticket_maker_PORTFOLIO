@@ -1,4 +1,4 @@
-#CORS_POLICY_ERROR_LOGIN
+# CORS_POLICY_ERROR_LOGIN
 Author: @steevn
 Status: Open 🟢
 Date: 2026-03-19 12:55

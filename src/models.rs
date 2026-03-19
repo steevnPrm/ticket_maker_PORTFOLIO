@@ -37,7 +37,7 @@ impl Ticket {
         }
 
         format!(
-            "#{}\nAuthor: @{}\nStatus: Open 🟢\nDate: {}\n\n\
+            "# {}\nAuthor: @{}\nStatus: Open 🟢\nDate: {}\n\n\
              ## {:?} {}\n\n\
              ### Description\n{}\n\n\
              ### 📋 Tasks\n{}\n\n\
