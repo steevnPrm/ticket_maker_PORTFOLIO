@@ -8,13 +8,13 @@ pub fn save_ticket(ticket: &TicketModel) -> std::io::Result<()> {
     let dir_path = "tickets";
     fs::create_dir_all(dir_path)?;
 
-    let filename = format!("{}.md", ticket.title.replace(" ", "_"));
+    let file_path = format!("{}/{}.md", dir_path, ticket.title.replace(" ", "_"));
     
-    let mut file = File::create(&filename)?;
+    let mut file = File::create(&file_path)?;
     
 
     file.write_all(ticket.to_markdown().as_bytes())?;
     
-    println!("Ticket sauvegardé : {}", filename);
+    println!("Ticket sauvegardé : {}", file_path);
     Ok(())
 }
