@@ -1,0 +1,9 @@
+/home/steevn/Documents/CODE/ticket_maker/ticket_maker/target/debug/deps/derive_more_impl-8555838005957f06.d: /home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/lib.rs /home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/utils.rs /home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/is_variant.rs /home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/../README.md /home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/../doc/is_variant.md
+
+/home/steevn/Documents/CODE/ticket_maker/ticket_maker/target/debug/deps/libderive_more_impl-8555838005957f06.so: /home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/lib.rs /home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/utils.rs /home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/is_variant.rs /home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/../README.md /home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/../doc/is_variant.md
+
+/home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/lib.rs:
+/home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/utils.rs:
+/home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/is_variant.rs:
+/home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/../README.md:
+/home/steevn/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.1.1/src/../doc/is_variant.md:
